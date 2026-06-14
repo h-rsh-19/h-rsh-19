@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsha Vardhan</h1>
 
 <p align="center">
-  Computer Science student building practical AI, full-stack, and automation projects.
+  Computer Science grad building practical AI, full-stack, and automation projects.
   I like turning rough ideas into working systems that can be tested, explained, and improved.
 </p>
 
@@ -9,8 +9,7 @@
   <a href="https://github.com/h-rsh-19?tab=repositories">Projects</a>
   ·
   <a href="https://github.com/h-rsh-19/aiml-learning-notebooks">AIML Notebooks</a>
-  ·
-  <a href="https://github.com/h-rsh-19/signease-trial3">SignEase</a>
+
 </p>
 
 ---
