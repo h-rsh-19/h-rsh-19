@@ -1,78 +1,88 @@
-<h1 align="center">Hi, I'm Harsha Vardhan</h1>
+<h1 align="center">Harsha Vardhan Reddy Kandi Konda</h1>
 
 <p align="center">
-  Computer Science grad building practical AI, full-stack, and automation projects.
-  I like turning rough ideas into working systems that can be tested, explained, and improved.
+  Computer Science Engineering student building practical software, AI, data, and computer vision projects.
+  I like taking rough ideas and turning them into working systems with clean code, clear docs, and measurable behavior.
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/harsha-vardhan-reddy-kandi-konda-80605925b/">LinkedIn</a>
+  ·
   <a href="https://github.com/h-rsh-19?tab=repositories">Projects</a>
   ·
-  <a href="https://github.com/h-rsh-19/aiml-learning-notebooks">AIML Notebooks</a>
-
+  <a href="https://github.com/h-rsh-19/adobe-hackathon">Adobe Hackathon</a>
+  ·
+  <a href="https://github.com/h-rsh-19/signease">SignEase</a>
 </p>
 
 ---
 
-## What I Build
+## Focus
 
-- AI/ML experiments that are easy to learn from and rerun.
-- Web apps with usable interfaces and clean backend flows.
-- Computer vision projects using Python, OpenCV, and model pipelines.
-- PDF/document automation and hackathon-style problem solving.
-- Small desktop tools that solve practical workflows.
+- Software engineering, backend systems, and automation.
+- AI/ML projects with reproducible notebooks and explainable results.
+- Computer vision with Python, OpenCV, and model pipelines.
+- Document AI, PDF parsing, and hackathon-style problem solving.
+- Practical desktop/web tools with SQLite, Flask, FastAPI, and JavaScript.
 
-## Featured Work
+## Featured Projects
 
-### SignEase
-Text to Indian Sign Language translation system with FastAPI, video assets, SiGML/avatar rendering, and a browser UI.
+### [SignEase](https://github.com/h-rsh-19/signease)
 
-Repository: [signease-trial3](https://github.com/h-rsh-19/signease-trial3)
+Text and camera based Indian Sign Language translation system with FastAPI, video assets, SiGML/avatar rendering, and a browser UI.
 
-### FaceVote
-Facial-recognition based online voting system built with Flask, OpenCV, face recognition, and SQLite.
+**Why it matters:** accessibility-focused AI project with multimodal inputs, rendering paths, and real user-facing workflows.
 
-Repository: [facevote](https://github.com/h-rsh-19/facevote)
+### [Adobe Hackathon](https://github.com/h-rsh-19/adobe-hackathon)
 
-### Adobe Hackathon
-Round 1A and 1B PDF-processing solutions for heading extraction and persona-driven section ranking.
+PDF intelligence solutions for Adobe Hackathon Round 1A and 1B: heading extraction and persona-driven section ranking.
 
-Repository: [adobe-hackathon](https://github.com/h-rsh-19/adobe-hackathon)
+**Why it matters:** shows Python, Docker, document parsing, ranking logic, and problem-solving under hackathon constraints.
 
-### Rare Skin Classifier
-Few-shot rare skin disease classification notebook and training helpers prepared for COE work.
+### [FaceVote](https://github.com/h-rsh-19/facevote)
 
-Repository: [rare-skin-classifier-coe](https://github.com/h-rsh-19/rare-skin-classifier-coe)
+Facial-recognition based online voting system using Flask, OpenCV, face recognition, and SQLite.
 
-### AIML Learning Notebooks
-Clean, output-free machine learning notebooks designed to help others learn core AIML workflows.
+**Why it matters:** combines authentication flow, webcam/image processing, database-backed voting, and web UI.
 
-Repository: [aiml-learning-notebooks](https://github.com/h-rsh-19/aiml-learning-notebooks)
+### [Rare Skin Classifier](https://github.com/h-rsh-19/rare-skin-classifier-coe)
 
-### Inventory App
+Rare skin condition classification notebook and training helpers with PyTorch/MedMNIST.
+
+**Why it matters:** medical AI learning project focused on class imbalance, model training, and explainability.
+
+### [Inventory App](https://github.com/h-rsh-19/inventory-app)
+
 Python Tkinter inventory management app with SQLite storage and PDF bill generation.
 
-Repository: [inventory-app](https://github.com/h-rsh-19/inventory-app)
+**Why it matters:** practical CRUD system with desktop UI, persistence, and report generation.
 
-## Tech I Use
+### [AIML Learning Notebooks](https://github.com/h-rsh-19/aiml-learning-notebooks)
+
+Clean applied ML notebooks covering data quality, feature engineering, model validation, and explainability.
+
+**Why it matters:** shows learning discipline and reproducible experimentation.
+
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Current Focus
+## Current Priorities
 
-- Strengthening data structures and algorithms.
-- Building cleaner AI/ML projects with reproducible notebooks.
-- Improving deployment, documentation, and production-readiness.
-- Exploring practical computer vision and automation use cases.
+- Strengthening DSA and interview problem solving.
+- Improving project READMEs, screenshots, setup steps, and deployment readiness.
+- Building more production-style AI/data/backend projects.
+- Applying for software, data, backend, AI/ML, and automation roles.
 
 ## GitHub Snapshot
 
@@ -84,6 +94,5 @@ Repository: [inventory-app](https://github.com/h-rsh-19/inventory-app)
 ---
 
 <p align="center">
-  Building, learning, shipping, then improving the next version.
+  Building, shipping, learning, and improving the next version.
 </p>
-
