@@ -45,7 +45,7 @@ Facial-recognition based online voting system using Flask, OpenCV, face recognit
 
 **Why it matters:** combines authentication flow, webcam/image processing, database-backed voting, and web UI.
 
-### [Rare Skin Classifier](https://github.com/h-rsh-19/rare-skin-classifier-coe)
+### [Rare Skin Classifier](https://github.com/h-rsh-19/rare-skin-classifier)
 
 Rare skin condition classification notebook and training helpers with PyTorch/MedMNIST.
 
