@@ -36,11 +36,15 @@ Personal AI operating system for engineering, learning, career planning, code in
 
 **Why it matters:** strongest end-to-end systems project: FastAPI, Next.js, TypeScript, SQLite, React Flow, local-first data, evaluation loops, and recruiter-ready proof assets.
 
+**Demo:** <https://h-rsh-19.github.io/atlas-ai-os/>
+
 ### [SignEase](https://github.com/h-rsh-19/signease)
 
 Text and camera based Indian Sign Language translation system with FastAPI, video assets, SiGML/avatar rendering, and a browser UI.
 
 **Why it matters:** accessibility-focused AI project with multimodal inputs, rendering paths, and real user-facing workflows.
+
+**Demo:** <https://h-rsh-19.github.io/signease/>
 
 ### [Adobe Hackathon](https://github.com/h-rsh-19/adobe-hackathon)
 
