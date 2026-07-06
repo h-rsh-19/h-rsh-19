@@ -10,6 +10,8 @@
   ·
   <a href="https://github.com/h-rsh-19?tab=repositories">Projects</a>
   ·
+  <a href="https://github.com/h-rsh-19/atlas-ai-os">Atlas AI OS</a>
+  ·
   <a href="https://github.com/h-rsh-19/adobe-hackathon">Adobe Hackathon</a>
   ·
   <a href="https://github.com/h-rsh-19/signease">SignEase</a>
@@ -20,12 +22,19 @@
 ## Focus
 
 - Software engineering, backend systems, and automation.
+- Full-stack AI systems with traces, evaluations, approvals, and code intelligence.
 - AI/ML projects with reproducible notebooks and explainable results.
 - Computer vision with Python, OpenCV, and model pipelines.
 - Document AI, PDF parsing, and hackathon-style problem solving.
 - Practical desktop/web tools with SQLite, Flask, FastAPI, and JavaScript.
 
 ## Featured Projects
+
+### [Atlas AI OS](https://github.com/h-rsh-19/atlas-ai-os)
+
+Personal AI operating system for engineering, learning, career planning, code intelligence, approval-gated actions, traces, and evals.
+
+**Why it matters:** strongest end-to-end systems project: FastAPI, Next.js, TypeScript, SQLite, React Flow, local-first data, evaluation loops, and recruiter-ready proof assets.
 
 ### [SignEase](https://github.com/h-rsh-19/signease)
 
@@ -68,6 +77,8 @@ Clean applied ML notebooks covering data quality, feature engineering, model val
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
